@@ -1,0 +1,2 @@
+scenarioAdditionEntier
+L’addition de 2 entiers produit un entier correspondant à la somme des 2 entiers.
